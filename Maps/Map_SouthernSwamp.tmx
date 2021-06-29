@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="66" height="66" tilewidth="16" tileheight="16" nextobjectid="1">
- <tileset firstgid="1" source="Tileset_SouthernSwamp2.tsx"/>
- <tileset firstgid="65" source="Tileset_Items.tsx"/>
+ <tileset firstgid="1" source="TilesetPointers/Tileset_SouthernSwamp.tsx"/>
+ <tileset firstgid="65" source="TilesetPointers/Tileset_Items.tsx"/>
  <layer name="Floor" width="66" height="66">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
