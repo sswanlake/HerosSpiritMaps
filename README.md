@@ -4,15 +4,15 @@ Maps and Tilesets for the game Hero's Spirit
 MAPPING CONVENTIONS:
 
 Layers:
-    Enemies
-    NPCs + Signposts (+ save points + [?])
-    Items + boulders
-    Hide Group
-        Compass Floor
-        Hidden Items
-        Hidden Wall Paths
-        Water Paths
-    Floor
+- Enemies
+- NPCs + Signposts (+ save points + [?])
+- Items + boulders
+- Hide Group
+ - Compass Floor
+ - Hidden Items
+ - Hidden Wall Paths
+ - Water Paths
+- Floor
 
 - The bottom right corner of the map's tileset is the map's background color
 - the background color should go on the Floor layer in places where there's a hidden path, and underneath the [?] blocks, as well as any areas whose tiles cannot be verified (like along an uneven border)
