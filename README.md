@@ -8,10 +8,10 @@ Layers:
 - NPCs + Signposts (+ save points + [?])
 - Items + boulders
 - Hide Group
- - Compass Floor
- - Hidden Items
- - Hidden Wall Paths
- - Water Paths
+  - Compass Floor
+  - Hidden Items
+  - Hidden Wall Paths
+  - Water Paths
 - Floor
 
 - The bottom right corner of the map's tileset is the map's background color
