@@ -1,5 +1,5 @@
 # HerosSpiritMaps
-Maps and Tilesets for the game Hero's Spirit
+Maps and Tilesets for the game Hero's Spirit - [Official Wiki](https://herosspirit.fandom.com/wiki/Hero%27s_Spirit_Wiki)
 
 .tmx files in the Maps folder can be viewed and edited with [Tiled](https://thorbjorn.itch.io/tiled).  If you'd like to help fill in missing parts of the maps, please DM sswanlake from the Hero's Spirit discord server to request access, and adhere to the following mapping conventions:
 
